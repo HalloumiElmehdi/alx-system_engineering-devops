@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 chown -R --from=guillaume betty hello
-=======
-chown --from=berry guillaume hello
->>>>>>> e9ea4ad557617d15d48e957c3e5f29fe50437976
