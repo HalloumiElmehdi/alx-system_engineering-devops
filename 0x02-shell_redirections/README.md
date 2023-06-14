@@ -12,5 +12,4 @@ All of the following files are scripts:
 | Filename | Description |
 | -------- | ----------- |
 | `0-hello_world` | Prints "Hello, World", followed by a new line to the standard output |# Shell, I/O Redirections and filters
-
-Project done during  my Software Engineering studies at ALX AFRICA School. It aims to learn about how to handle standard input and output and how to combine commands and filters with redirections in **Shell**.
+| `1-confused_smiley` | Displays a confused smiley `"(Ôo)'` |
